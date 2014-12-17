@@ -1,10 +1,8 @@
 
-# the intranet of things
+# Do we need an intranet of things ?
 
-From the terminal, pop in:
+or how to get more privacy while having fun
 
-  ```yo reveal:slide "Slide Title"```
+[@gorhgorh](https://twitter.com/gorhgorh)
 
-Available options:
-
- ```--markdown --attributes --notes```
+![image](imgs/nodebot.jpeg) ![image](imgs/space.png)
